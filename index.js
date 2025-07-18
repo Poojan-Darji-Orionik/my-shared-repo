@@ -1,5 +1,5 @@
 const sayHello = require("./utils/hello");
 
-module.expors = {
+module.exports = {
   sayHello,
 };
